@@ -1,5 +1,5 @@
 {
-  "name": "@systembug/ember-tooltip",
+  "name": "ember-tooltip",
   "version": "0.0.0",
   "description": "The default blueprint for ember-cli addons.",
   "keywords": [
